@@ -86,8 +86,8 @@ layers:
   - {t: ▽, type: trans}
   - UP
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - OUT TOG
+  - PRINTSCREEN
+  - '{'
   - F11
   - F12
   - {t: ▽, type: trans}
@@ -98,8 +98,8 @@ layers:
   - LEFT
   - DOWN
   - RIGHT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ENTER
+  - '}'
   - '&mkp RCLK'
   - '&mkp RCLK'
   - {t: ▽, type: trans}
