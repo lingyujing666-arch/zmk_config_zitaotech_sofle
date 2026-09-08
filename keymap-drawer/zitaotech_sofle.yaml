@@ -1,8 +1,72 @@
 layout: {zmk_keyboard: zitaotech_sofle}
 layers:
-  QWERTY: [ESC, '1', '2', '3', '4', '5', MUTE, MUTE, '6', '7', '8', '9', '0', BSPC, TAB, Q, W, E, R, T, Y, U, I, O, P, \, CAPS, A, S, D, F, G, '&mkp LCLK', '&mkp
-      LCLK', H, J, K, L, ;, ENTER, LSHFT, Z, X, C, V, B, PG DN, PG UP, '&msc SCRL_DOWN', '&msc SCRL_UP', N, M, ',', ., /, RSHIFT, LCTRL, LGUI, LALT, SPACE, LOWER,
-    LOWER, SPACE, '-', '=', '`']
+  QWERTY:
+  - ESC
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - MUTE
+  - MUTE
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - BSPC
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - \
+  - CAPS
+  - A
+  - S
+  - D
+  - F
+  - G
+  - '&mkp LCLK'
+  - '&mkp LCLK'
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ENTER
+  - LSHFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - PG DN
+  - PG UP
+  - '&msc SCRL_DOWN'
+  - '&msc SCRL_UP'
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - RSHIFT
+  - LCTRL
+  - LGUI
+  - LALT
+  - {t: SPACE, h: LCTRL}
+  - LOWER
+  - LOWER
+  - {t: BACKSPACE, h: RSHIFT}
+  - '-'
+  - '='
+  - '`'
   LOWER:
   - ESC
   - F1
