@@ -63,7 +63,7 @@ layers:
   - {t: SPACE, h: LCTRL}
   - LOWER
   - LOWER
-  - {t: BACKSPACE, h: RIGHT SHIFT}
+  - {t: BACKSPACE, h: LEFT SHIFT}
   - '-'
   - '='
   - '`'
